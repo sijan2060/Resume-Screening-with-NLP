@@ -98,17 +98,6 @@ def main():
             }
 
             st.write('Prediction Category is :-',category_name.get(prediction_id))
-
-
-            
-
-
-
-                
-
-
-
-#python Main 
         
 if __name__=="__main__":
         main()
